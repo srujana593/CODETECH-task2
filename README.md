@@ -1,6 +1,17 @@
 # CODETECH-task2
+name:allampalli srujana
+Company:CODTECH IT SOLUTIONS
+ID:CTO8DS6954
+Domain:Web development
+Duration:august to september 2024
+Mentor:neela santhosh kumar
+Project:TO -DO LIST WEB APPLICATION
 
-Objectives of the poject:
+Let's craft a user-friendly to-do list web app with CSS, HTML, and
+JavaScript! Then, create comprehensive documentation for a
+complete project overview.
+
+Objectives of the project:
 
 User-Friendly Interface: Create a simple and intuitive UI that allows users to easily add, edit, delete, and view tasks.
 
